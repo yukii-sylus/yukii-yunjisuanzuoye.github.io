@@ -6,7 +6,7 @@
 
 1. 访问 https://github.com
 2. 注册一个新账号，登录后点击右上角 "+" → New repository
-3. 仓库命名如：`yukii-sylus`
+3. 仓库命名：`yukii-sylus`
 4. 勾选 Initialize with README
 
 ## 第二步：开发网站
