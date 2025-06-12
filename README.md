@@ -11,16 +11,16 @@
 
 ## 第二步：开发网站
 
-使用 HTML + CSS 创建网站（已在本目录中完成 `index.html`、`about.html`、`style.css`）
+使用 HTML + CSS + JS创建网站（已在本目录中完成 `index.html`、` index1.html`、`style.css`、`script.js`）
 
 ## 第三步：注册云服务并部署网站
 
 以腾讯云轻量应用服务器为例：
 
 1. 访问 https://cloud.tencent.com 注册账号
-2. 获取免费轻量服务器（一般为 1 核 1G 25GB SSD）
+2. 获取免费轻量云应用服务器
 3. 创建实例并设置公网 IP （49.234.26.70）和开放 80 端口
-4.使用浏览器访问你的公网 IP，即可访问网站主页！
+4.使用浏览器访问公网 IP（49.234.26.70），即可访问网站主页
 
 
 ## ✅ 项目结构：
@@ -28,8 +28,9 @@
 ```
 site/
 ├── index.html
-├── about.html
+├── index1.html
 ├── style.css
+├── script.js
 └── README.md
 ```
 
